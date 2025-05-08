@@ -1,0 +1,7 @@
+data/
+anaconda_projects/
+.ipynb_checkpoints/
+my_presentation_notebook_files/
+qmd_pres/
+salary_pred_files/
+so_eda_files/
